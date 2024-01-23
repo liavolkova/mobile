@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Roman.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            >
+            <Label Text="Roman Converter" FontSize="Title" HorizontalOptions="Center" />
+            <Border Stroke="black" StrokeThickness="1">
+                <Entry x:Name="txtInput" />
+
+            </Border>
+            <Label x:Name="lblDisplay" HorizontalOptions="Center" Text="0" FontSize="40" Padding="30,30"/>
+
+            <StackLayout Orientation="Horizontal">
+            <Button Text="Convert" HorizontalOptions="CenterAndExpand" FontSize="Large" Clicked="Convert_Clicked"/>
+            <Button Text="Clear" HorizontalOptions="CenterAndExpand" FontSize="Large" Clicked="Clear_Clicked"/>
+                </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+
