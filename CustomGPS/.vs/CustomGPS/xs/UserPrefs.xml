@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{F333E061-6A2C-4F9B-A3EF-468D86938668}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomGPS/CustomGPS/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CustomGPS/CustomGPS/MainPage.xaml.cs" Line="22" Column="15" />
+      <File FileName="CustomGPS/CustomGPS/Custom/ICurrentLocation.cs" Line="11" Column="1" />
+      <File FileName="CustomGPS/CustomGPS.iOS/Custom/GetCurrentLocation.cs" Line="35" Column="1" />
+      <File FileName="CustomGPS/CustomGPS/App.xaml.cs" Line="10" Column="41" />
+      <File FileName="CustomGPS/CustomGPS.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomGPS" expanded="True">
+            <Node name="CustomGPS" expanded="True">
+              <Node name="Custom" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CustomGPS.iOS" expanded="True">
+              <Node name="Custom" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomGPS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.ItemProperties.CustomGPS.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

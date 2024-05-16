@@ -3,14 +3,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/MainPage.xaml.cs">
     <Files>
       <File FileName="HelloWorld/MainPage.xaml.cs" Line="19" Column="33" />
-      <File FileName="HelloWorld/MainPage.xaml" Line="24" Column="37" />
+      <File FileName="HelloWorld/MainPage.xaml" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
-            <Node name="HelloWorld">
-              <Node name="MainPage.xaml">
+            <Node name="HelloWorld" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
                 <Node name="MainPage.xaml.cs" selected="True" />
               </Node>
             </Node>

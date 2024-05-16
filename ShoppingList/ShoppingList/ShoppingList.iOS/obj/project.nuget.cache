@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+CrgxBDCC7NxGi9DC98zO3YOH6AuBImGc2mcoL1Ps5GXRi3zM1iujYUHuWCuDU6xcboqOD5fYQ060JmWMtx0Q==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/ShoppingList/ShoppingList/ShoppingList.iOS/ShoppingList.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

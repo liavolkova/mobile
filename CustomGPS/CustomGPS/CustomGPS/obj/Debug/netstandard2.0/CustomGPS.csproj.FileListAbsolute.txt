@@ -1,0 +1,15 @@
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.deps.json
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.dll
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/ref/CustomGPS.dll
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.pdb
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.csproj.AssemblyReference.cache
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.AssemblyInfoInputs.cache
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.AssemblyInfo.cs
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.csproj.CoreCompileInputs.cache
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.dll
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/refint/CustomGPS.dll
+/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.pdb

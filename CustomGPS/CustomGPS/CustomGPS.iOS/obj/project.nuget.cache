@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Qm4YDBr982b7WeGw+SRNzfnIFJnzXB8+Lf5AmE0q8U2knEn876JgNypnHJ+rpfn/etuNhdI8Db58QbsJwadIg==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS.iOS/CustomGPS.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/plugin.permissions/3.0.0.12/plugin.permissions.3.0.0.12.nupkg.sha512",
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xam.plugin.geolocator/4.5.0.6/xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

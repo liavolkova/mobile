@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{76687D03-CF82-4096-B3C6-8C6CACB470EB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/student/Projects/MovieApp/MovieApp/Models/Repository.cs" relfile="MovieApp/Models/Repository.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieApp/Models/Repository.cs">
+    <Files>
+      <File FileName="MovieApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="MovieApp/App.xaml" />
+      <File FileName="MovieApp/Models/Repository.cs" Line="18" Column="1" />
+      <File FileName="MovieApp/Models/Movie.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieApp" expanded="True">
+            <Node name="MovieApp" expanded="True">
+              <Node name="Images" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Repository.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="AddPage.xaml" expanded="True" />
+                <Node name="FindPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" Xamarin.HotReload.DebuggerTimeoutException.MovieApp.HideInfoBar="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

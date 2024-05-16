@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{DB930654-9754-4ACB-9C2A-F008A65FE290}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DateNight PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateNight/Views/MoviePage.xaml.cs">
+    <Files>
+      <File FileName="DateNight/Views/CoffeePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DateNight/Views/CoffeePage.xaml" Line="1" Column="1" />
+      <File FileName="DateNight/Views/DinnerPage.xaml" Line="1" Column="1" />
+      <File FileName="DateNight/Views/DinnerPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DateNight/Views/MoneyPage.xaml" Line="1" Column="1" />
+      <File FileName="DateNight/Views/MoneyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DateNight/Views/MoviePage.xaml" Line="1" Column="1" />
+      <File FileName="DateNight/Views/MoviePage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateNight" expanded="True">
+            <Node name="DateNight" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="CoffeePage.xaml" expanded="True" />
+                <Node name="DinnerPage.xaml" expanded="True" />
+                <Node name="MoneyPage.xaml" expanded="True" />
+                <Node name="MoviePage.xaml" expanded="True">
+                  <Node name="MoviePage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

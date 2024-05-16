@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyfHBoUs0kPzjrIsI2Xwv0cVk8ut4awI13K2mW/eyhsNeu5MhJ9UELo2XUSh5kHLF7fR/D8x3OR1P0zfPfDELg==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/TimerPro/TimerPro/TimerPro.iOS/TimerPro.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

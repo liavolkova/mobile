@@ -1,0 +1,15 @@
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.csproj.AssemblyReference.cache
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.AssemblyInfoInputs.cache
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.AssemblyInfo.cs
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.csproj.CoreCompileInputs.cache
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.dll
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/refint/Marathon.dll
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.pdb
+/Users/student/Projects/Marathon/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.deps.json
+/Users/student/Projects/Marathon/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.dll
+/Users/student/Projects/Marathon/Marathon/Marathon/bin/Debug/netstandard2.0/ref/Marathon.dll
+/Users/student/Projects/Marathon/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.pdb
+/Users/student/Projects/Marathon/Marathon/Marathon/obj/Debug/netstandard2.0/XamlC.stamp

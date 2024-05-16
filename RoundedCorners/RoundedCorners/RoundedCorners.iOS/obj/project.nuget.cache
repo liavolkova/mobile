@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5seq3JMyR/fu6wjxKwbyHTiW0AroKV36ByJVuR2B2bDlb8sg/whC+EFSVHlYIV6XSdgqkOcLQMDUsv3qwMceJA==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners.iOS/RoundedCorners.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

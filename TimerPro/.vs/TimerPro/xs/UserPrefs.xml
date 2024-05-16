@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{18D2DD96-F414-42C4-899F-91FC004D109F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TimerPro.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TimerPro.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimerPro/TimerPro/Custom/TimerLogic.cs">
+    <Files>
+      <File FileName="TimerPro/TimerPro/MainPage.xaml.cs" Line="49" Column="65" />
+      <File FileName="TimerPro/TimerPro/MainPage.xaml" Line="8" Column="38" />
+      <File FileName="TimerPro/TimerPro/Custom/TimerLogic.cs" Line="18" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimerPro" expanded="True">
+            <Node name="TimerPro" expanded="True">
+              <Node name="Custom" expanded="True">
+                <Node name="TimerLogic.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TimerPro.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

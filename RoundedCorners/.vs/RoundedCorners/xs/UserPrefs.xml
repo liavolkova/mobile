@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{226227A8-C160-4018-9C3F-EFB09155BA67}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoundedCorners/RoundedCorners.iOS/Custom/ImageBoxRenderer.cs">
+    <Files>
+      <File FileName="RoundedCorners/RoundedCorners.Android/Custom/ImageBoxRender.cs" Line="47" Column="22" />
+      <File FileName="RoundedCorners/RoundedCorners.iOS/Custom/ImageBoxRenderer.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundedCorners" expanded="True">
+            <Node name="RoundedCorners" expanded="True">
+              <Node name="Custom" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="RoundedCorners.Android">
+              <Node name="Custom" expanded="True" />
+            </Node>
+            <Node name="RoundedCorners.iOS">
+              <Node name="Custom" expanded="True">
+                <Node name="ImageBoxRenderer.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+</Properties>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bL3gCWvCG91J+bsGkXoqbXT6W3UuzrUeQ9jktlp6bjRS+vyU2zpj49RByyiZfvbFLoUor/9Mb54+IpTkXl2TwA==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/CustomGPS/CustomGPS/CustomGPS/CustomGPS.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

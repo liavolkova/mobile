@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E181AA1B-950E-4D3C-ABBE-E722EE471E6F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShoppingList.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.ItemProperties.ShoppingList.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingList/ShoppingList/Views/ListPage.xaml.cs">
+    <Files>
+      <File FileName="ShoppingList/ShoppingList/Views/ListPage.xaml.cs" Line="22" Column="23" />
+      <File FileName="ShoppingList/ShoppingList/Models/UserData.cs" Line="22" Column="9" />
+      <File FileName="ShoppingList/ShoppingList.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="ShoppingList/ShoppingList/Views/ListPage.xaml" Line="17" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingList" expanded="True">
+            <Node name="ShoppingList" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ListPage.xaml" expanded="True">
+                  <Node name="ListPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="NewAccountPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="ShoppingList.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

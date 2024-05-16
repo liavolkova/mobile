@@ -1,0 +1,15 @@
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.deps.json
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.dll
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/bin/Debug/netstandard2.0/ref/TimerPro.dll
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.pdb
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.csproj.AssemblyReference.cache
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.AssemblyInfoInputs.cache
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.AssemblyInfo.cs
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.csproj.CoreCompileInputs.cache
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.dll
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/refint/TimerPro.dll
+/Users/student/Projects/TimerPro/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.pdb

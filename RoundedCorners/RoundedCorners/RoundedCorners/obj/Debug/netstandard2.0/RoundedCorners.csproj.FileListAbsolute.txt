@@ -1,0 +1,15 @@
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.deps.json
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.dll
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/ref/RoundedCorners.dll
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.pdb
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.csproj.AssemblyReference.cache
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.AssemblyInfoInputs.cache
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.AssemblyInfo.cs
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.csproj.CoreCompileInputs.cache
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.dll
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/refint/RoundedCorners.dll
+/Users/student/Projects/RoundedCorners/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.pdb

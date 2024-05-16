@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ES0va5mW7w0ZcHr8qSk5MiE6ssTNnMPvwc7XZH41+hmoZc2ji9IqqP7f4I8HCcBH9XX7Bs2IG5ii8GOEF7UXMw==",
+  "success": true,
+  "projectFilePath": "/Users/student/Projects/TimerPro/TimerPro/TimerPro/TimerPro.csproj",
+  "expectedPackageFiles": [
+    "/Users/student/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/student/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/student/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
